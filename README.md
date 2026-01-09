@@ -9,4 +9,4 @@ My work focuses on **dragon iconography and symbolism** in the Western Middle Ag
 - 🏛️ Cultural heritage and digital analysis
 
 💻 Technologies & Tools:
-Python, OpenCV, PyTorch, Transkribus, IIIF, TEI, etc.
+Python, OpenCV, PyTorch, Transkribus, IIIF, YOLO, Dino, CLIP, etc.
