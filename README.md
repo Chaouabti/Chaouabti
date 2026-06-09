@@ -10,3 +10,5 @@ My work focuses on **dragon iconography and symbolism** in the Western Middle Ag
 
 💻 Technologies & Tools:
 Python, OpenCV, PyTorch, Transkribus, IIIF, YOLO, Dino, CLIP, etc.
+
+Mother of TiamaT-app[https://github.com/TiamaT-app]
